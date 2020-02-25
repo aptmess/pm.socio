@@ -11,3 +11,5 @@ Addintional materials:
 - `literature/socio.pdf`
 
 - `literature/centrality measures.doc`
+
+[Current results](https://github.com/aptmess/pm.socio/blob/master/code/socio.ipynb)
