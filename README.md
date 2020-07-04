@@ -1,5 +1,4 @@
 # pm.socio
-
 Socio Data Analysis using: `data/socio.csv`:
 
 1. Построить графы, тепловые карты
@@ -13,3 +12,7 @@ Addintional materials:
 - `literature/centrality measures.doc`
 
 [Current results](https://github.com/aptmess/pm.socio/blob/master/code/socio.ipynb)
+
+## Closed
+
+
